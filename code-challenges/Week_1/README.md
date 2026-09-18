@@ -5,7 +5,7 @@ exercises to help you get comfortable working with strings and arrays. Take your
 with each one and remember that the goal is to practice and learn, so it is
 okay to go slow.
 
-<h3 role="heading" aria-level="2"> Who This Folder Is For</h3>
+## Who This Folder Is For
 
 If you are in the program, work through the `.js` challenges. That is your
 required track.
