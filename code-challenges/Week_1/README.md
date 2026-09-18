@@ -7,9 +7,9 @@ okay to go slow.
 
 <div id="user-content-toc">
    <ul style="list-style: none;">
-    <summary>
+    
       <h2 style="border-bottom:0 dashed white"> Who This Folder Is For</h2>
-    </summary>
+    
    </ul>
 </div>
 
