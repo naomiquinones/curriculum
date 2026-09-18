@@ -6,7 +6,7 @@ with each one and remember that the goal is to practice and learn, so it is
 okay to go slow.
 
 <div id="user-content-toc">
-   <summary>
+   <summary style="list-style-type:none">
    <h2 style="border-bottom:0 dashed white"> Who This Folder Is For</h2>
    </summary>
 </div>
