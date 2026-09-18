@@ -5,8 +5,12 @@ exercises to help you get comfortable working with strings and arrays. Take your
 with each one and remember that the goal is to practice and learn, so it is
 okay to go slow.
 
-<div id="user-content-toc">   
-   <h2 style="border-bottom:0 dashed white"> Who This Folder Is For</h2>
+<div id="user-content-toc">
+   <ul style="list-style: none;">
+    <summary>
+      <h2 style="border-bottom:0 dashed white"> Who This Folder Is For</h2>
+    </summary>
+   </ul>
 </div>
 
 If you are in the program, work through the `.js` challenges. That is your
