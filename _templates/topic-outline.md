@@ -1,12 +1,6 @@
 # Example Topic Outline (Replace with Title)
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Projected Time</h2>
-      </summary>
-   </ul>
-</div>
+<h2><span style="display: block;">Projected Time</span></h2>
 
 Example: 30-45 minutes
 
@@ -15,13 +9,7 @@ Example: 30-45 minutes
 - Independent Practice: ? min
 - Check for Understanding: ?-? min
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Prerequisites</h2>
-      </summary>
-   </ul>
-</div>
+<h2><span style="display: inline-block;">Prerequisites</span></h2>
 
 Here are topics that should be understood before this topic:
 
