@@ -3,6 +3,11 @@
 <span role="heading" aria-level="2" style="font-size: 1.5em; font-weight: bold; display: block;">
    Projected Time
 </span>
+<h2 id="section-title">
+   <a href="#section-title" style="color: inherit; text-decoration: none;">
+      Projected Time
+   </a>
+</h2>
 
 Example: 30-45 minutes
 
