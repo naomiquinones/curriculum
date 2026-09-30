@@ -1,6 +1,8 @@
 # Example Topic Outline (Replace with Title)
 
-> ## Projected Time
+## Overview
+
+### Projected Time
 
 Example: 30-45 minutes
 
@@ -9,19 +11,13 @@ Example: 30-45 minutes
 - Independent Practice: ? min
 - Check for Understanding: ?-? min
 
-<h2><span style="display: inline-block;">Prerequisites</span></h2>
+### Prerequisites
 
 Here are topics that should be understood before this topic:
 
 - Example: [Git version control](../git/git-version-control.md)
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Motivation</h2>
-      </summary>
-   </ul>
-</div>
+### Motivation
 
 Why it is worth learning this topic
 
@@ -30,13 +26,7 @@ Why it is worth learning this topic
 - How does fit this tool fit into the ecosystem or full stack architecture? (if applicable)
 - If a fellow engineer asked about this tool/technique, what would your succinct answer be?
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Objectives</h2>
-      </summary>
-   </ul>
-</div>
+### Objectives
 
 **Participants will be able to:**
 
@@ -45,38 +35,20 @@ Why it is worth learning this topic
 - Even more things
 - Even more things
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Specific Things to Learn</h2>
-      </summary>
-   </ul>
-</div>
+### Specific Things to Learn
 
 - Focus on this specific talking point
 - and this - This is a sub-thing about the thing
 - Even more things about the things
 - Even more things about the things
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Materials</h2>
-      </summary>
-   </ul>
-</div>
+### Materials
 
 - [Example video (10 min)](https://google.com) - Write a very short description of this resource.
 - [Other example article(20 min read)](https://google.com) - Answer the 3 questions at the end.
   (Be sure to explain how to use these materials in directions in one of the sections below (ie: lesson, guided practice). If you are not assigning them somehow, they should be placed under Supplemental Materials at the bottom.)
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Lesson</h2>
-      </summary>
-   </ul>
-</div>
+## Lesson
 
 Here's text about introducing something and how it works.
 
@@ -92,66 +64,30 @@ Make sure to mention these things:
 - Even more things
 - Even more things
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Common Mistakes & Misconceptions</h2>
-      </summary>
-   </ul>
-</div>
+### Common Mistakes & Misconceptions
 
 List things that learners might not realize, might assume at first, or should avoid.
 
 - Example
 - Example
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Guided Practice</h2>
-      </summary>
-   </ul>
-</div>
+### Guided Practice
 
 Have the participants work with you as you do something step-by-step. This can also be fulfilled by a detailed tutorial intended for beginners.
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Independent Practice</h2>
-      </summary>
-   </ul>
-</div>Independent Practice
+### Independent Practice
 
 Class does this thing themselves with specific additional items. This could be alone, with a partner, or small group; but the idea is that it's less guided, more independent.
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Challenge</h2>
-      </summary>
-   </ul>
-</div>
+### Challenge
 
 Participants can try to do this other thing. Ideally, they will be challenged to connect what they've learned to some previous knowledge or additional research.
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Check for Understanding</h2>
-      </summary>
-   </ul>
-</div>
+## Check for Understanding
 
 Some ideas: have participants summarize to each other, make a cheat sheet, take a quiz, do an assignment, or something else that helps them self-assess their understanding. This exercise should help participants determine whether they've met the outline objectives, or if they need to review.ss
 
-<div id="user-content-toc">
-   <ul style="list-style: none;">
-      <summary>
-         <h2 style="border-bottom:0">Supplemental Materials</h2>
-      </summary>
-   </ul>
-</div>
+### Supplemental Materials
 
 - [example website](https://google.com) - Write a very short description of how to use this optional resource.
 - [Other example website](https://google.com) - Write a very short description of how to use this optional resource.
