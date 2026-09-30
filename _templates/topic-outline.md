@@ -1,6 +1,8 @@
 # Example Topic Outline (Replace with Title)
 
-<h2><span style="display: block;">Projected Time</span></h2>
+<span role="heading" aria-level="2" style="font-size: 1.5em; font-weight: bold; display: block;">
+   Projected Time
+</span>
 
 Example: 30-45 minutes
 
